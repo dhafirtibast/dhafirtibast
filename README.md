@@ -4,9 +4,9 @@
 Halo, saya Dhafir!
 </h1>
 
-
+<p align="center">
 <img src="https://media.tenor.com/vDljpi454HcAAAAM/jolly-sybau-happy-sybau.gif" width="165px" alt="sybau">
-
+</p>
  
 <p align="center">
 Selamat datang di profil GitHub saya!
